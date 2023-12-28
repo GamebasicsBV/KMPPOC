@@ -1,8 +1,8 @@
 Pod::Spec.new do |spec|
     spec.name                     = 'shared'
-    spec.version                  = '1.2'
+    spec.version                  = '1.3'
     spec.homepage                 = 'Link to the Shared Module homepage'
-    spec.source                   = { :http=> ''}
+    spec.source                   = { :git=> 'git@github.com:GamebasicsBV/KMPPOC.git'}
     spec.authors                  = ''
     spec.license                  = ''
     spec.summary                  = 'Some description for the Shared Module'
